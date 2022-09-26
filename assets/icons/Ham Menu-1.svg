@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66" height="66" viewBox="0 0 66 66">
+  <defs>
+    <filter id="Rectangle_262" x="0" y="0" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#050c19" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Ham_Menu" data-name="Ham Menu" transform="translate(8787 12440)">
+    <g transform="matrix(1, 0, 0, 1, -8787, -12440)" filter="url(#Rectangle_262)">
+      <rect id="Rectangle_262-2" data-name="Rectangle 262" width="36" height="36" rx="12" transform="translate(15 10)" fill="#fff"/>
+    </g>
+    <g id="Ham_Menu-2" data-name="Ham Menu" transform="translate(-10898 -13833)">
+      <g id="Ham_Menu-3" data-name="Ham Menu" transform="translate(2132 1409)">
+        <path id="Path_2115" data-name="Path 2115" d="M0,0H24V24H0Z" fill="none"/>
+        <path id="Path_2116" data-name="Path 2116" d="M4,18H20a1,1,0,0,0,0-2H4a1,1,0,0,0,0,2Zm0-5H20a1,1,0,0,0,0-2H4a1,1,0,0,0,0,2ZM3,7A1,1,0,0,0,4,8H20a1,1,0,0,0,0-2H4A1,1,0,0,0,3,7Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

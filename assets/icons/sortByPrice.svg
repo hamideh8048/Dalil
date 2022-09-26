@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <filter id="Ellipse_125" x="0" y="0" width="68" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_287" data-name="Group 287" transform="translate(-236 -32)">
+    <g transform="matrix(1, 0, 0, 1, 236, 32)" filter="url(#Ellipse_125)">
+      <circle id="Ellipse_125-2" data-name="Ellipse 125" cx="25" cy="25" r="25" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g id="sort_black_24dp----money" transform="translate(252 44)">
+      <g id="sort_black_24dp----money-2" data-name="sort_black_24dp----money" transform="translate(-0.453 0.094)" opacity="0.75">
+        <rect id="Rectangle_172" data-name="Rectangle 172" width="37" height="38" transform="translate(0.453 -0.094)" fill="none"/>
+        <rect id="Rectangle_173" data-name="Rectangle 173" width="28.601" height="2.716" transform="translate(4.892 28.159)"/>
+        <path id="Path_397" data-name="Path 397" d="M10.789,16.783V4h-3.2V16.783H2.8l6.391,6.391,6.391-6.391Z" transform="translate(1.453 1.949)"/>
+        <path id="Path_398" data-name="Path 398" d="M18.232,12.548c-2.557-.639-3.355-1.438-3.355-2.4,0-1.278,1.118-2.077,3.036-2.077,1.6,0,2.4.639,2.716,1.6a1.013,1.013,0,0,0,.959.8h.32a1.015,1.015,0,0,0,.959-1.438A4.772,4.772,0,0,0,19.51,6.157v-.8a1.758,1.758,0,0,0-3.515,0v.8C13.758,6.636,12,8.074,12,10.311c0,2.557,2.237,3.995,5.273,4.634,2.876.639,3.355,1.758,3.355,2.716,0,.8-.479,2.077-3.036,2.077-1.917,0-2.876-.639-3.2-1.6a1.013,1.013,0,0,0-.959-.8h-.32a1.015,1.015,0,0,0-.959,1.438,4.838,4.838,0,0,0,3.835,2.876v.8a1.758,1.758,0,0,0,3.515,0v-.8c2.237-.479,3.995-1.758,3.995-3.995C23.664,14.305,20.788,13.187,18.232,12.548Z" transform="translate(6.953 1.71)"/>
+      </g>
+    </g>
+  </g>
+</svg>

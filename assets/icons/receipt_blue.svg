@@ -1,0 +1,12 @@
+<svg id="receipt_long_black_24dp" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+   <g id="receipt_long_black_24dp-2" data-name="receipt_long_black_24dp" opacity="0.75">
+      <path id="Path_734" data-name="Path 734" d="M0,0H24V24H0Z" fill="none"/>
+      <g id="Group_763" data-name="Group 763">
+         <path id="Path_735" data-name="Path 735" d="M14,9H10A1,1,0,0,1,9,8H9a1,1,0,0,1,1-1h4a1,1,0,0,1,1,1h0A1,1,0,0,1,14,9Z" fill="#53a4aa"/>
+         <path id="Path_736" data-name="Path 736" d="M14,12H10a1,1,0,0,1-1-1H9a1,1,0,0,1,1-1h4a1,1,0,0,1,1,1h0A1,1,0,0,1,14,12Z" fill="#53a4aa"/>
+         <path id="Path_737" data-name="Path 737" d="M19.5,3.5,18,2,16.5,3.5,15,2,13.5,3.5,12,2,10.5,3.5,9,2,7.5,3.5,6,2V16H4a1,1,0,0,0-1,1v2a3,3,0,0,0,3,3H18a3,3,0,0,0,3-3V2ZM15,20H6a1,1,0,0,1-1-1V18H15Zm4-1a1,1,0,0,1-2,0V17a1,1,0,0,0-1-1H8V5H19Z" fill="#53a4aa"/>
+         <circle id="Ellipse_154" data-name="Ellipse 154" cx="1" cy="1" r="1" transform="translate(16 7)" fill="#53a4aa"/>
+         <circle id="Ellipse_155" data-name="Ellipse 155" cx="1" cy="1" r="1" transform="translate(16 10)" fill="#53a4aa"/>
+      </g>
+   </g>
+</svg>

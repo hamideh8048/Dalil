@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <filter id="Ellipse_155" x="0" y="0" width="62" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#050c19" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="My_Loc_Icon_Circle_Background" data-name="My Loc Icon Circle Background" transform="translate(-1090 -1889)">
+    <g transform="matrix(1, 0, 0, 1, 1090, 1889)" filter="url(#Ellipse_155)">
+      <circle id="Ellipse_155-2" data-name="Ellipse 155" cx="16" cy="16" r="16" transform="translate(15 10)" fill="#fff"/>
+    </g>
+    <g id="My_Loc_Icon" data-name="My Loc Icon" transform="translate(-903 497)">
+      <rect id="Rectangle_261" data-name="Rectangle 261" width="24" height="24" rx="12" transform="translate(2012 1406)" fill="#fff" opacity="0"/>
+      <g id="my_location_black_24dp" transform="translate(2012 1406)">
+        <path id="Path_2113" data-name="Path 2113" d="M0,0H24V24H0Z" fill="none"/>
+        <path id="Path_2114" data-name="Path 2114" d="M12,8a4,4,0,1,0,4,4A4,4,0,0,0,12,8Zm8.94,3A8.994,8.994,0,0,0,13,3.06V2a1,1,0,0,0-2,0V3.06A8.994,8.994,0,0,0,3.06,11H2a1,1,0,0,0,0,2H3.06A8.994,8.994,0,0,0,11,20.94V22a1,1,0,0,0,2,0V20.94A8.994,8.994,0,0,0,20.94,13H22a1,1,0,0,0,0-2H20.94ZM12,19a7,7,0,1,1,7-7A6.995,6.995,0,0,1,12,19Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg id="account_circle_black_24dp" xmlns="http://www.w3.org/2000/svg" width="43" height="43" viewBox="0 0 43 43">
+   <g id="account_circle_black_24dp-2" data-name="account_circle_black_24dp" opacity="0.75">
+      <path id="Path_722" data-name="Path 722" d="M0,0H43V43H0Z" fill="none"/>
+      <path id="Path_723" data-name="Path 723" d="M19.917,2A17.917,17.917,0,1,0,37.833,19.917,17.923,17.923,0,0,0,19.917,2Zm0,5.375a5.375,5.375,0,1,1-5.375,5.375A5.368,5.368,0,0,1,19.917,7.375Zm0,25.442a12.9,12.9,0,0,1-10.75-5.769c.054-3.565,7.167-5.518,10.75-5.518,3.565,0,10.7,1.953,10.75,5.518A12.9,12.9,0,0,1,19.917,32.817Z" transform="translate(1.583 1.583)" fill="#fff"/>
+   </g>
+</svg>

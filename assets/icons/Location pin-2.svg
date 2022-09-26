@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="33" viewBox="0 0 33 33">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.106" y1="-0.203" x2="0.742" y2="1.256" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdb813"/>
+      <stop offset="0.264" stop-color="#dca522"/>
+      <stop offset="0.605" stop-color="#976d09"/>
+      <stop offset="1" stop-color="#543d06"/>
+    </linearGradient>
+  </defs>
+  <g id="Location_pin" data-name="Location pin" transform="translate(6136.799 12524.799)">
+    <rect id="Rectangle_302" data-name="Rectangle 302" width="33" height="33" transform="translate(-6136.799 -12524.799)" fill="#fff" opacity="0"/>
+    <g id="noun_location_pin_2558186" data-name="noun_location pin_2558186" transform="translate(-6130.18 -12523.963)">
+      <path id="Path_2176" data-name="Path 2176" d="M38.221,9.766a9.959,9.959,0,0,1-1.394,4.955c-.9,1.566-1.879,3.1-2.906,4.579A31.212,31.212,0,0,0,28.985,29.39c-.135.51-.21,1.04-.341,1.566a1.325,1.325,0,0,1-.257.373,1.177,1.177,0,0,1-.266-.363,32.894,32.894,0,0,0-5.966-12.487,33.268,33.268,0,0,1-2.505-3.858A9.889,9.889,0,1,1,38.221,9.766Zm-9.853,4.172a3.887,3.887,0,0,0,3.862-3.887,3.8,3.8,0,0,0-7.6-.069A3.911,3.911,0,0,0,28.368,13.937Z" transform="translate(-18.459 -0.001)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

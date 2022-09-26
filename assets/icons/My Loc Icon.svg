@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="My_Loc_Icon" data-name="My Loc Icon" transform="translate(-2012 -1406)">
+    <rect id="Rectangle_261" data-name="Rectangle 261" width="24" height="24" rx="12" transform="translate(2012 1406)" fill="#fff" opacity="0"/>
+    <g id="my_location_black_24dp" transform="translate(2012 1406)">
+      <path id="Path_2113" data-name="Path 2113" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_2114" data-name="Path 2114" d="M12,8a4,4,0,1,0,4,4A4,4,0,0,0,12,8Zm8.94,3A8.994,8.994,0,0,0,13,3.06V2a1,1,0,0,0-2,0V3.06A8.994,8.994,0,0,0,3.06,11H2a1,1,0,0,0,0,2H3.06A8.994,8.994,0,0,0,11,20.94V22a1,1,0,0,0,2,0V20.94A8.994,8.994,0,0,0,20.94,13H22a1,1,0,0,0,0-2H20.94ZM12,19a7,7,0,1,1,7-7A6.995,6.995,0,0,1,12,19Z"/>
+    </g>
+  </g>
+</svg>

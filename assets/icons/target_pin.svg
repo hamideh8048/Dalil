@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138.5" height="136" viewBox="0 0 138.5 136">
+  <defs>
+    <filter id="Background" x="0" y="14.723" width="95" height="50" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Drop_Off_Pin" data-name="Drop Off Pin" transform="translate(-1335.5 -1157)">
+    <rect id="Rectangle_409" data-name="Rectangle 409" width="136" height="136" transform="translate(1338 1157)" fill="#fff"/>
+    <g id="Group_1017" data-name="Group 1017" transform="translate(3528.5 13987.5)">
+      <g transform="matrix(1, 0, 0, 1, -2193, -12830.5)" filter="url(#Background)">
+        <rect id="Background-2" data-name="Background" width="77" height="32" rx="16" transform="translate(9 20.72)" fill="#fff"/>
+      </g>
+      <text id="مقصد" transform="translate(-2137 -12789.777)" fill="#050c19" font-size="16" font-family="IRANSansX-Regular, IRANSansX"><tspan x="-39.408" y="0">مقصد</tspan></text>
+      <g id="Group_1014" data-name="Group 1014" transform="translate(-2133 -12804.777)">
+        <path id="Path_2964" data-name="Path 2964" d="M6.538-.073,12.63,5.984,6.02,12.561-.073,6.5Z" transform="translate(10.974 2.129) rotate(45)" fill="#fdb813"/>
+        <path id="Path_2965" data-name="Path 2965" d="M11,0a10.922,10.922,0,0,1,6.272,19.919l-.493.342L11,42.778,5.217,20.258l-.492-.341A10.923,10.923,0,0,1,11,0Zm0,19.8a8.858,8.858,0,1,0-8.906-8.859A8.892,8.892,0,0,0,11,19.8Z" transform="translate(0)" fill="#404c6d"/>
+      </g>
+    </g>
+  </g>
+</svg>
