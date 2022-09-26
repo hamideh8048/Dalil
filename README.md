@@ -1,8 +1,5 @@
-# getx_restaurant
+# Dalil demo project
 
-A new Flutter project that explain GetX State Management, Route Management & Dependency Injection.
+A new demo  project 
 
-## Getting Started
 
-You can preview this project through the web link given below
-https://getx-store.web.app/#/
