@@ -1,7 +1,8 @@
+import 'package:DalilIRanDemo/widgets/firstPage.dart';
+import 'package:DalilIRanDemo/widgets/firstWebview.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:getx_restaurant/widgets/firstPage.dart';
-import 'package:getx_restaurant/widgets/firstWebview.dart';
+
 
 class AppRouter {
   Route<dynamic> onGenerateRoute(RouteSettings routeSettings) {
