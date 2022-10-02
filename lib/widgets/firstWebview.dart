@@ -22,7 +22,7 @@ class _WebViewAppState extends State<WebViewApp> {
         title: const Text('Dalil IRan'),
       ),
       body: const WebView(
-        initialUrl: 'https://flutter.dev',
+        initialUrl: 'https://www.varzesh3.com/',//'https://flutter.dev',
       ),
     );
   }

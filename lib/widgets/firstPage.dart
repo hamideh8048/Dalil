@@ -647,7 +647,47 @@ class FirstPage extends StatelessWidget {
             ),
           ),
         ]),//dic
+      bottomNavigationBar: BottomNavigationBar(
+        items: const <BottomNavigationBarItem>[
+          BottomNavigationBarItem(
+            icon: Icon(Icons.home),
+            label:  'تعزيز الرصيد ',
+            backgroundColor: Color(0xFFE5E5E5),
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.business),
+            label: 'Business',
+            backgroundColor: Colors.green,
+          ),
+          BottomNavigationBarItem(
 
+            icon:
+            // ImageIcon(
+            //   AssetImage(Assets.homeIcon),
+            //   color: Color(0xFF3A5A98),
+            // ),
+            Icon(Icons.home),
+            label: 'الرئيسية',
+            backgroundColor: Color(0xFFE5E5E5),
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.settings),
+            label:
+
+            'تعزيز الرصيد ',
+            backgroundColor: Color(0xFF2767CE),
+          ),
+        ],
+        currentIndex: 2,//_selectedIndex,
+        selectedItemColor:  Color(0xFF2767CE),
+        selectedLabelStyle: TextStyle(
+          fontFamily: 'NotoSansArabicR',
+          fontSize: 12,
+
+          color:Color(0xFF5B6071) ,
+        ),
+        // onTap: //_onItemTapped,
+      ),
     );
   }
 }
